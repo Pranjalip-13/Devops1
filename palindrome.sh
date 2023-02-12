@@ -1,3 +1,4 @@
+this is my palindrone profram 
 echo enter n
 read n
 num=0
